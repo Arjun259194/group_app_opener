@@ -1,6 +1,5 @@
-from genericpath import isfile
 import tkinter as tk
-from tkinter import Place, filedialog, Text
+from tkinter import filedialog, Text
 import os
 
 root = tk.Tk()
